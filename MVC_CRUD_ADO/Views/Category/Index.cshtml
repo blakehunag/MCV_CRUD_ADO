@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@model IEnumerable<zeroToHero.Models.Category>
+@{
+    ViewBag.Title = "產品分類資料";
+}
+<h2>產品分類資料</h2>
+<a href="~/Category/Insert" class="btn btn-primary">新增分類</a>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>分類編號</th>
+            <th>分類名稱</th>
+            <th>描述</th>
+            <th>編輯</th>
+            <th>刪除</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var _category in Model)
+        {
+            <tr>
+                <td>@_category.CategoryID</td>
+                <td>@_category.CategoryName</td>
+                <td>@_category.Description</td>
+                <td><a href="~/Category/Edit/@_category.CategoryID" class="btn btn-primary">編輯</a></td>
+                <td><a href="~/Category/Delete/@_category.CategoryID" class="btn btn-danger">刪除</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

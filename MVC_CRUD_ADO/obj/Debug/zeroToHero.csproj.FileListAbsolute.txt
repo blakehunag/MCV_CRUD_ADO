@@ -1,0 +1,78 @@
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\csc.exe
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\vbc.exe
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\VBCSCompiler.exe
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zeroToHero.dll.config
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zeroToHero.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zeroToHero.pdb
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Helpers.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Mvc.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Razor.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Deployment.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Razor.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Razor.xml
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.xml
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Deployment.xml
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Razor.xml
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Helpers.xml
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\System.Web.Mvc.xml
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\obj\Debug\zeroToHero.csprojResolveAssemblyReference.cache
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\obj\Debug\zeroToHero.dll
+C:\Users\III\Google 雲端硬碟\MVC\zeroToHero\zeroToHero\obj\Debug\zeroToHero.pdb
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\csc.exe
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\System.Collections.Immutable.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\System.Reflection.Metadata.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\vbc.exe
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\VBCSCompiler.exe
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\roslyn\VBCSCompiler.exe.config
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zeroToHero.dll.config
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zeroToHero.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zeroToHero.pdb
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\Microsoft.Web.Infrastructure.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Helpers.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Mvc.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Razor.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Deployment.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Razor.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Razor.xml
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.xml
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Deployment.xml
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Webpages.Razor.xml
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Helpers.xml
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\System.Web.Mvc.xml
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\obj\Debug\zeroToHero.csprojResolveAssemblyReference.cache
+Z:\MSIT\MVC\zeroToHero\zeroToHero\obj\Debug\zeroToHero.dll
+Z:\MSIT\MVC\zeroToHero\zeroToHero\obj\Debug\zeroToHero.pdb
